@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DataReprocess_LogFile.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EventName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GenericData_Create2</Value>
+    </Setting>
+    <Setting Name="Installation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SEL010020D</Value>
+    </Setting>
+    <Setting Name="Execution" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RX</Value>
+    </Setting>
+    <Setting Name="QueueType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PVQ</Value>
+    </Setting>
+    <Setting Name="QueueNumber" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="RotateQueues" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SpecificQueues" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SendData" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
